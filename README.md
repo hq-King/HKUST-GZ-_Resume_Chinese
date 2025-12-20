@@ -7,15 +7,14 @@
 在此对以下原作者及项目表示最诚挚的感谢：
 
 1. 原型 (Original Base): 
-   武汉大学中文简历模板
-   作者：小红书 @虎生
+   华中科技大学  HUST-CV模板 https://github.com/lessiYin/HUST-Resume-LaTeX-Template
 
-2. 上游基础 (Upstream bases):
-   本模板的武大版本又是基于以下两个优秀的模板修改而来：
+3. 上游基础 (Upstream bases):
+   本模板的华科版本又是基于以下三个优秀的模板修改而来：
    - 北师大 BNUCV 模板 (GitHub: LeyuDame/BNUCV)
    - 西北工业大学 NPU-CV 模板 (Overleaf: npu-cv)
-   - 华中科技大学  模板(暂未上传，我先发了hhhh) https://github.com/lessiYin
-3. 本次修改 (HKUST Adaptation):
+   - 武汉大学 WHU-CV 模板 小红书 @虎生
+4. 本次修改 (HKUST Adaptation):
    将模板本地化为港科广版本，调整了配色、页眉页脚逻辑及字体配置。
 
 ------------------------------------------------------------------------
