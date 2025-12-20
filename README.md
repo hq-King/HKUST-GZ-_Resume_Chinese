@@ -1,5 +1,7 @@
 #  香港科技大学广州 (HKUST-GZ) 中文简历 LaTeX 模板
-
+<div align=center>
+<img width="98%" src="cv.png"/>
+</div>
 一、致谢 (Credits & Acknowledgements)
 ------------------------------------------------------------------------
 【饮水思源】
